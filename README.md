@@ -1,14 +1,11 @@
-# MSOC - Application Acceleration with High-Level-Synthesis 
-<p align="center">
-This repository is for the co-teaching course "Multimedia System-on-Chip Design" (2020 Fall)
-</p>
+# Jini-Intelligent-Computing-Lab2
 
 
-<!-- PROJECT LOGO -->
+
 <br />
 <p align="center">
 
-  <h3 align="center">Application Acceleration with High-Level-Synthesis </h3>
+  <h3 align="center">MSOC-HLS project github template</h3>
   
 </p>
 
@@ -18,8 +15,9 @@ This repository is for the co-teaching course "Multimedia System-on-Chip Design"
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-* [Project Category](#project-category)
 * [Usage](#usage)
+* [Algorithm](#Algorithm)
+* [References](#References)
 * [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
@@ -29,31 +27,30 @@ This repository is for the co-teaching course "Multimedia System-on-Chip Design"
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+This is a template github repository for hls projects with credits >3.
 
+**Directory structure**
+* **README.md** - introduce the project, algorithm, reference ....
+* **code/**
+  * original - original code from open source if there is 
+  * final (use inline pragma) - include both host and kernel code ※Note: host code must do auto-check
+* **code-opt/** - Note it may have multiple code directories for different code structure, named by code-opt  (opt refer to optimization method, e.g. code-OoO  Out-Of-Order)
+  * ...
+* **testdata/** - include input test data, and output result data
+* **script/** - makefile
+  * ... - Build process shall include a trial-run with result check. 
+* **impl/** - result of the implementation, only the metafile, and report, e.g. vitis summary file, HLS csynth report
+      
 
-
-
-## Project Category
-* [Jini-Intelligent-Computing-Lab2](https://github.com/mediaic/Jini-Intelligent-Computing-Lab2/)
-* [Project Name1](https://github.com/mediaic/Jini-Intelligent-Computing-Lab2/) , Author, Description of the project
-* [Project Name2](https://github.com/mediaic/Jini-Intelligent-Computing-Lab2/) , Author, Description of the project
-* ...
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-1. fpga board setup
+* build process
 
-We use **Xilinx ZedBoard Evaluation and Development Kit** to evaulate this project
+## Algorithm
 
-2. run makefile
-```sh
- make .
-```
-3. python test
-```sh
- python FIRN11MAXI.py
-```
 
+## References
 
 <!-- CONTRIBUTING -->
 ## Contributing
