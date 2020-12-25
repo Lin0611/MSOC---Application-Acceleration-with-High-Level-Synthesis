@@ -17,7 +17,7 @@
 ## About The Project
 This is a repository for hls self-paced projects. There are three projects included:
 - fir_example
-- FP_ACCUM
+- fp_accum
 - squared_difference_accumulate
 
 **Directory structure**
