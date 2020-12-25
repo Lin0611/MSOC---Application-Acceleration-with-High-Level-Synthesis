@@ -1,11 +1,11 @@
-# Jini-Intelligent-Computing-Lab2
+# Jini-Intelligent-Computing-Lab
 
 
 
 <br />
 <p align="center">
 
-  <h3 align="center">MSOC-HLS project github template</h3>
+  <h3 align="center">MSOC-HLS projects </h3>
   
 </p>
 
@@ -27,7 +27,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This is a template github repository for hls projects with credits >3.
+This is a repository for hls self-paced projects.
 
 **Directory structure**
 * **README.md** - introduce the project, algorithm, reference ....
