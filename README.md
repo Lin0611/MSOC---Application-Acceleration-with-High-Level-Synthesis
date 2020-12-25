@@ -34,9 +34,9 @@ Each project contains:
 
 
 
-<!-- LICENSE -->
-## License
-
+<!-- REFERENCE -->
+## Reference
+https://github.com/Xilinx/HLx_Examples
 
 
 <!-- CONTACT -->
