@@ -14,7 +14,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About The Repo
 This is a repository for hls self-paced projects. There are three projects included:
 - fir_example
 - fp_accum
