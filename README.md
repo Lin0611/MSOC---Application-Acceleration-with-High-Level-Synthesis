@@ -27,7 +27,10 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This is a repository for hls self-paced projects.
+This is a repository for hls self-paced projects. There are three projects included:
+** fir_example
+** FP_ACCUM
+** squared_difference_accum
 
 **Directory structure**
 * **README.md** - introduce the project, algorithm, reference ....
