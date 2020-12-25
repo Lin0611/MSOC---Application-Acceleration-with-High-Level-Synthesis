@@ -26,8 +26,8 @@ Each project contains:
 
 * **report** - introduce the project, algorithm, implementation ....
 * **src/**
-  * original - original code from open source if there is 
-  * final (use inline pragma) - include both host and kernel code ※Note: host code must do auto-check
+  * original - original code from open source
+  * final (use inline pragma) - kernel code for final optimization
 * **pynq/** 
   * host program
   * .bit, .hwh
