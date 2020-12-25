@@ -15,10 +15,6 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-* [Usage](#usage)
-* [Algorithm](#Algorithm)
-* [References](#References)
-* [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
