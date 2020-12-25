@@ -33,13 +33,16 @@ This is a repository for hls self-paced projects. There are three projects inclu
 - squared_difference_accumulate
 
 **Directory structure**
+
 Each project contains:
+
 * **report** - introduce the project, algorithm, implementation ....
 * **src/**
   * original - original code from open source if there is 
   * final (use inline pragma) - include both host and kernel code ※Note: host code must do auto-check
-* **pynq/** - Note it may have multiple code directories for different code structure, named by code-opt  (opt refer to optimization method, e.g. code-OoO  Out-Of-Order)
-  * ...
+* **pynq/** 
+  * host program
+  * .bit, .hwh
 
 
 
